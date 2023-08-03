@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-using-flexbox-and-grid-Eka5NR2cxP)
+- Live Site URL: [Github pages](https://bennatbjoern.github.io/clipboard-landing-page/)
 
 ## My process
 
